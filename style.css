@@ -1,9 +1,6 @@
 /* 引入自定义字体 Lolita */
 @font-face {
-    font-family: 'Lolita';
-    src: url('assets/fonts/Lolita.woff2') format('woff2'),
-         url('assets/fonts/Lolita.woff') format('woff'),
-         url('assets/fonts/Lolita.ttf') format('truetype');
+    font-family: 'Lolita';    
     font-weight: normal;
     font-style: normal;
 }
